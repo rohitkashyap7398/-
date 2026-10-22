@@ -1,0 +1,6 @@
+{
+  "name": "श्री राम चरित - संपूर्ण ३० अध्याय कथा",
+  "description": "भगवान श्री राम की संपूर्ण पावन जीवन गाथा - ३० अध्यायों में विस्तृत कथा, प्रसिद्ध चौपाई, श्लोक, सचित्र दर्शन एवं जीवन संदेश।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
